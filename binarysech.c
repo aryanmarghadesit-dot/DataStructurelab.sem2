@@ -5,7 +5,7 @@ int main()
   int key,low =0,high,i,n,a[30],mid;
     printf("Enter the number of elements\n");
     scanf("%d",&n);
-    printf("Enter the elemnts" );
+    printf("Enter the elements" );
     for(i=0;i<n;i++){
         scanf("%d",&a[i]);
     }
@@ -28,4 +28,5 @@ int main()
         }
         
         
+
  }
